@@ -1,0 +1,1 @@
+2 ;1000000 ;1000000 ;Y ;2010-03-09 13:36:59 ;100 ;2010-03-09 13:39:06 ;100 ;Pierre ;null ;5e0c7831afecea6a ;pspqw@audaxis.com ;null ;1000683 ;N ;pspqw@audaxis.com ;d7f2ac10a0321ab42c48267ccd969c98 ;1000553 ;null ;null ;null ;null ;null ;null ;null ;null ;null ;null ;null ;null ;null ;Y ;null ;E ;null ;pierre ;null ;null ;null ;N ;null ;
